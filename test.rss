@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
-    <channel>
-		<ttl>60</ttl>
-		<title>TEST RSS TITLE</title>
-		<link>https://example.com/</link>
-		<atom:link href="https://example.com/" rel="self" type="application/rss+xml"/>
-		<language>es</language>
-		<copyright>TEST RSS COPY RIGHT</copyright>
-		<itunes:keywords/>
-		<itunes:author>TEST RSS AUTHOR</itunes:author>
-		<itunes:subtitle>SUB TITLE</itunes:subtitle>
-		<itunes:summary>SUMMARY TEST</itunes:summary>
-		<description>DESCRIPTION TEST</description>
-		<itunes:explicit>true</itunes:explicit>
-		<itunes:owner>
-			<itunes:name>OWNER TEST</itunes:name>
-			<itunes:email>email@test.com</itunes:email>
-		</itunes:owner>
-		<acast:showId>0000000000000000001</acast:showId>
-		<acast:showUrl>test</acast:showUrl>
-		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
-		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmStkiTEE0CNxIPxmLPEYNwN8JcQ4bXX8FAQw6qUVW5tXhItbJeDFCms6g/S+7uRWuy149fCgrICmeajbnXORXdWuM1vDpdrpuF9ZxdvdcfCHlCXk+F4W/yvYQ84+R3ZEbw==]]></acast:settings>
-        <acast:network id="0" slug="testn"><![CDATA[T]]></acast:network>
-		<itunes:type>episodic</itunes:type>
-			<itunes:image href="https://avatars.githubusercontent.com/u/99093357?v=4"/>
-			<image>
-				<url>https://avatars.githubusercontent.com/u/99093357?v=4</url>
-				<link>https://avatars.githubusercontent.com/u/99093357?v=4</link>
-				<title>TEST</title>
-			</image>
+<channel>
+	<ttl>60</ttl>
+	<title>TEST RSS TITLE</title>
+	<link>https://example.com/</link>
+	<atom:link href="https://example.com/" rel="self" type="application/rss+xml"/>
+	<language>es</language>
+	<copyright>TEST RSS COPY RIGHT</copyright>
+	<itunes:keywords/>
+	<itunes:author>TEST RSS AUTHOR</itunes:author>
+	<itunes:subtitle>SUB TITLE</itunes:subtitle>
+	<itunes:summary>SUMMARY TEST</itunes:summary>
+	<description>DESCRIPTION TEST</description>
+	<itunes:explicit>true</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>OWNER TEST</itunes:name>
+		<itunes:email>email@test.com</itunes:email>
+	</itunes:owner>
+	<acast:showId>0000000000000000001</acast:showId>
+	<acast:showUrl>test</acast:showUrl>
+	<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+	<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmStkiTEE0CNxIPxmLPEYNwN8JcQ4bXX8FAQw6qUVW5tXhItbJeDFCms6g/S+7uRWuy149fCgrICmeajbnXORXdWuM1vDpdrpuF9ZxdvdcfCHlCXk+F4W/yvYQ84+R3ZEbw==]]></acast:settings>
+	<acast:network id="0" slug="testn"><![CDATA[T]]></acast:network>
+	<itunes:type>episodic</itunes:type>
+		<itunes:image href="https://avatars.githubusercontent.com/u/99093357?v=4"/>
+		<image>
+			<url>https://avatars.githubusercontent.com/u/99093357?v=4</url>
+			<link>https://avatars.githubusercontent.com/u/99093357?v=4</link>
+			<title>TEST</title>
+		</image>
+	</channel>
 </rss>

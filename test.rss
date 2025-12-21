@@ -2,7 +2,7 @@
 <!DOCTYPE title [ <!ELEMENT title ANY >
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
 <channel>
-	<ttl>60</ttl>
+	<ttl>609</ttl>
 	<title>TITLE TEST RSS</title>
 	<link>https://example.com/</link>
 	<atom:link href="https://example.com/" rel="self" type="application/rss+xml"/>

@@ -1,5 +1,4 @@
-+ADw-?xml+ACA-version+AD0-+ACI-1.0+ACI-+ACA-encoding+AD0-+ACI-UTF-7+ACI-?+AD4-
-+ADw-+ACE-DOCTYPE+ACA-foo+ACA-+AFs-+ADw-+ACE-ENTITY+ACA-example+ACA-SYSTEM+ACA-+ACI-/etc/passwd+ACI-+AD4-+ACA-+AF0-+AD4-
+<?xml version="1.0" encoding="UTF-7"?>
 +ADw-rss+ACA-version+AD0-+ACI-2.0+ACI-+ACA-xmlns:atom+AD0-+ACI-http://www.w3.org/2005/Atom+ACI-+ACA-xmlns:googleplay+AD0-+ACI-http://www.google.com/schemas/play-podcasts/1.0+ACI-+ACA-xmlns:itunes+AD0-+ACI-http://www.itunes.com/dtds/podcast-1.0.dtd+ACI-+ACA-xmlns:media+AD0-+ACI-http://search.yahoo.com/mrss/+ACI-+ACA-xmlns:podaccess+AD0-+ACI-https://access.acast.com/schema/1.0/+ACI-+ACA-xmlns:acast+AD0-+ACI-https://schema.acast.com/1.0/+ACI-+AD4-
 +ADw-channel+AD4-
 +AAk-+ADw-ttl+AD4-609+ADw-/ttl+AD4-

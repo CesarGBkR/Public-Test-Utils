@@ -16,7 +16,7 @@
 		<itunes:explicit>true</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>ITUNES NAME</itunes:name>
-			<itunes:email>email@email.com</itunes:email>
+			<itunes:email>spotyh1.panoramic842@passinbox.com</itunes:email>
 		</itunes:owner>
 		<acast:showId>1</acast:showId>
 		<acast:showUrl>SHOWURL</acast:showUrl>
@@ -24,10 +24,10 @@
 		<acast:settings><![CDATA[ACAST:SETTINGS]]></acast:settings>
         <acast:network id="6606a75e140bdb00174e342a" slug="BP"><![CDATA[BP]]></acast:network>
 		<itunes:type>episodic</itunes:type>
-    <itunes:image href="http://ITUNES:IMAGE.com"/>
+    <itunes:image href="https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss"/>
 			<image>
-				<url>https://ITUNES:IMAGE.com</url>
-				<link>https://ITUNES:IMAGE.com</link>
+				<url>https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss</url>
+				<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss</link>
 				<title>TITLEIMGAGE</title>
 			</image>
 		<item>
@@ -38,13 +38,13 @@
 			<enclosure url="" length="111715217" type="audio/mpeg"/>
 			<guid isPermaLink="false">1</guid>
 			<itunes:explicit>false</itunes:explicit>
-			<link>https://linkepisode.com</link>
+			<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss</link>
 			<acast:episodeId>1</acast:episodeId>
 			<acast:showId>2</acast:showId>
-			<acast:episodeUrl>EpisodeURL</acast:episodeUrl>
+			<acast:episodeUrl>https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss</acast:episodeUrl>
 			<acast:settings><![CDATA[]]></acast:settings>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:image href="https://EpisodeImage.com"/>
+			<itunes:image href="https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.rss"/>
 			<description><![CDATA[]]></description>
 			<itunes:summary><![CDATA[]]></itunes:summary>
 		</item>

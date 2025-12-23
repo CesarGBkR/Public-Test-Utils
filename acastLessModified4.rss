@@ -4,8 +4,8 @@
     <channel>
 		<ttl>60</ttl>
 		<generator>acast.com</generator>
-		<title>Baker Acast Podcast LM333</title>
-		<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/L</link>
+		<title>Baker LM4</title>
+		<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/4</link>
 		<atom:link href="https://isopentyl-uncarved-chiquita.ngrok-free.dev/AL" rel="self" type="application/rss+xml"/>
 		<language>es</language>
 		<copyright>Baker Evil</copyright>

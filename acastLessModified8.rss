@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+		<ttl>60</ttl>
+		<generator>acast.com</generator>
+		<title>Baker ALM8</title>
+		<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
+		<atom:link href="https://feeds.acast.com/public/shows/6948f35df756711739ab860f" rel="self" type="application/rss+xml"/>
+		<language>es</language>
+		<copyright>Baker Evil</copyright>
+		<itunes:keywords/>
+		<itunes:author>Baker Evil</itunes:author>
+		<itunes:subtitle/>
+		<itunes:summary><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		<description><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Baker Evil</itunes:name>
+			<itunes:email>spotyh1.panoramic842@passinbox.com</itunes:email>
+		</itunes:owner>
+		<acast:showId>6948f35df756711739ab860f</acast:showId>
+		<acast:showUrl>baker-acast-podcast</acast:showUrl>
+		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
+        <acast:network id="6948f22c9ff9a18986b3de22" slug="baker-evil-6948f22c9ff9a18986b3de22"><![CDATA[Baker Evil]]></acast:network>
+			<itunes:image href="https://ebkr.heracross.adpt.acs.owo.ngrok.pizza/testText"/>
+			<image>
+				<url>https://open-static.acast.com/global/images/default-cover.png</url>
+				<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
+				<title>Baker Acast Podcast</title>
+			</image>
+		<item>
+			<title>Titulo Acast</title>
+			<itunes:title>Titulo Acast</itunes:title>
+			<pubDate>Mon, 22 Dec 2025 07:34:17 GMT</pubDate>
+			<itunes:duration>0:03</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/6948f35df756711739ab860f/e/6948f476184761c021c6db08/media.mp3" length="18580" type="audio/mpeg"/>
+			<guid isPermaLink="false">6948f476184761c021c6db08</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/baker-acast-podcast/episodes/6948f476184761c021c6db08</link>
+			<acast:episodeId>6948f476184761c021c6db08</acast:episodeId>
+			<acast:showId>6948f35df756711739ab860f</acast:showId>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs3BzJ8ZEH1eMsALRwj259AkwVjHyk5gCjeIqEAdfuozzC4OtdKkHHBio02yBplX8Sh+NeNYCSeh0HcC1k+j0ahUVuuFjLXdhONsBSRHPN21rsBYpwL/frFahVos9E7hBy]]></acast:settings>
+			<itunes:subtitle>Subtitulo Acast</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<description><![CDATA[Resumen ACAST<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Resumen ACAST<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+    	<itunes:category text="Comedy"/>
+    </channel>
+</rss>

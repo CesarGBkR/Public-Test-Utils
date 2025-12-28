@@ -5,8 +5,8 @@
 		<ttl>60</ttl>
 		<generator>acast.com</generator>
 		<title>Baker LM5</title>
-		<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/5</link>
-		<atom:link href="https://isopentyl-uncarved-chiquita.ngrok-free.dev/AL" rel="self" type="application/rss+xml"/>
+		<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
+		<atom:link href="https://feeds.acast.com/public/shows/baker-acast-podcast" rel="self" type="application/rss+xml"/>
 		<language>es</language>
 		<copyright>Baker Evil</copyright>
 		<itunes:keywords/>
@@ -24,7 +24,7 @@
 		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
 		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
         <acast:network id="6948f22c9ff9a18986b3de22" slug="baker-evil-6948f22c9ff9a18986b3de22"><![CDATA[Baker Evil]]></acast:network>
-			<itunes:image href="https://raw.githubusercontent.com/CesarGBkR/Public-Test-Utils/refs/heads/main/test.txt"/>
+			<itunes:image href="https://open-static.acast.com/global/images/default-cover.png"/>
 			<image>
 				<url>https://isopentyl-uncarved-chiquita.ngrok-free.dev/IMGURL</url>
 				<link>https://isopentyl-uncarved-chiquita.ngrok-free.dev/IMGLINK</link>

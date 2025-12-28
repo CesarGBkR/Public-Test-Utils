@@ -24,7 +24,7 @@
 		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
 		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmTHg2/BXqPr07kkpFZ5JfhvEZqggcpunI6E1w81XpUaBscFc3skEQ0jWG4GCmQYJ66w6pH6P/aGd3DnpJN6h/CD4icd8kZVl4HZn12KicA2k]]></acast:settings>
         <acast:network id="6948f22c9ff9a18986b3de22" slug="baker-evil-6948f22c9ff9a18986b3de22"><![CDATA[Baker Evil]]></acast:network>
-			<itunes:image href="https://isopentyl-uncarved-chiquita.ngrok-free.dev/test.jpg"/>
+			<itunes:image href="https://ebkr.heracross.adpt.acs.owo.ngrok.pizza/test.jpg"/>
 			<image>
 				<url>https://open-static.acast.com/global/images/default-cover.png</url>
 				<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>

